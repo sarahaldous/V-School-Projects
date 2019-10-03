@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(255, 205, 185, 0.438);
+}
+.linkList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layoutHeader {
+    text-shadow: 2px 1px 1px rgb(100, 100, 100);
+    justify-content: center;
+}
+.footer {
+    color: purple;
+    background-color: palevioletred;
+}
+.projectCard {
+    border: 1px solid black;
+    margin: 10px;
+    background-color: rgba(58, 58, 80, 0.205);
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
